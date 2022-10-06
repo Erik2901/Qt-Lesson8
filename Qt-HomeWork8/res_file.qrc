@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/referance.txt</file>
+        <file>res/font.png</file>
+        <file>res/center-text-alignment.png</file>
+        <file>res/left-text-alignment.png</file>
+        <file>res/right-text-alignment.png</file>
+        <file>res/switchlang_ru.qm</file>
+        <file>res/get-format.png</file>
+        <file>res/set-format.png</file>
+        <file>res/clock.png</file>
+    </qresource>
+</RCC>
